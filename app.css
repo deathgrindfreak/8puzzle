@@ -1,0 +1,24 @@
+div.container {
+    margin: 0 auto;
+    width: 250px;
+}
+
+div.main-grid {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#user-table td {
+    border: solid 1px black;
+    width: 30px;
+    height: 30px;
+}
+
+input.grid-cell {
+    width: 30px;
+    height: 30px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
